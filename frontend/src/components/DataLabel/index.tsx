@@ -25,4 +25,4 @@ function DataLabel() {
     );
 }
 
-export default DataLabel
+export default DataLabel;
